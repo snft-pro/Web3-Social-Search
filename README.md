@@ -1,6 +1,6 @@
 # Web3-Social-Search
 
-1- Update `.env.example` file with your keys, then rename it to `.env`
+1- Update `.env.example` file with your key, then rename it to `.env`
 
 2-Install:
 
